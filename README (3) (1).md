@@ -1,3 +1,6 @@
+Watch Me Create This Lab.
+https://www.loom.com/share/c18402898f2b44ab81a0df3b8e8a7e8e
+
 # How to Create a Virtual Machine in AWS
 
 ## Steps
